@@ -1,0 +1,25 @@
+I"ş<form action="https://formspree.io/FORM_ID" method="POST">
+  <div class="text-center">
+    <label>
+      Your Name:
+      <input type="text" name="name" />
+    </label>
+  </div>
+  <div class="text-center">
+    <label>
+      Your Email:
+      <input type="email" name="_replyto" />
+    </label>
+  </div>
+  <div class="text-center">
+    <label>
+      Message:
+      <textarea name="message"></textarea>
+    </label>
+  </div>
+  <div class="text-center">
+    <input type="submit" value="Send" />
+  </div>
+</form>
+
+:ET

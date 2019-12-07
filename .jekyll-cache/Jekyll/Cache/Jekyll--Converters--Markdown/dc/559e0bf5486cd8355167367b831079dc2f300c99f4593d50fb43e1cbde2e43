@@ -1,0 +1,25 @@
+I"½<form action="https://formspree.io/FORM_ID" method="POST" class="d-flex">
+  <div>
+    <label>
+      Your Name:
+      <input type="text" name="name" />
+    </label>
+  </div>
+  <div>
+    <label>
+      Your Email:
+      <input type="email" name="_replyto" />
+    </label>
+  </div>
+  <div>
+    <label>
+      Message:
+      <textarea name="message"></textarea>
+    </label>
+  </div>
+  <div>
+    <input type="submit" value="Send" />
+  </div>
+</form>
+
+:ET
