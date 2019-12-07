@@ -11,21 +11,21 @@ title: "Damien Website"
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="/assets/img/panoramic.jpg" alt="First slide">
+      <img class="d-block w-100" src="{{base}}/assets/img/panoramic.jpg" alt="First slide">
       <div class="carousel-caption d-none d-md-block">
         <h5>TITRE</h5>
         <p>text</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="/assets/img/panoramic.jpg" alt="Second slide">
+      <img class="d-block w-100" src="{{base}}/assets/img/panoramic.jpg" alt="Second slide">
       <div class="carousel-caption d-none d-md-block">
         <h5>TITRE</h5>
         <p>text</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="/assets/img/panoramic.jpg" alt="Third slide">
+      <img class="d-block w-100" src="{{base}}/assets/img/panoramic.jpg" alt="Third slide">
       <div class="carousel-caption d-none d-md-block">
         <h5>TITRE</h5>
         <p>text</p>
