@@ -1,23 +1,23 @@
-I"À<h1 class="text-center my-5">amenagement cuisine</h1>
+I"Ì<h1 class="text-center my-5">amenagement cuisine</h1>
 
 <div class="row mx-5 mb-5">
   <div class="col-12 col-md-6 col-lg-4 mb-3">
-    <img src="/assets/img/machine-bois.jpg" class="img-fluid" alt="cuisine" />
+    <img src="../assets/img/machine-bois.jpg" class="img-fluid" alt="cuisine" />
   </div>
   <div class="col-12 col-md-6 col-lg-4 mb-3">
-    <img src="/assets/img/machine-bois.jpg" class="img-fluid" alt="cuisine" />
+    <img src="../assets/img/machine-bois.jpg" class="img-fluid" alt="cuisine" />
   </div>
   <div class="col-12 col-md-6 col-lg-4 mb-3">
-    <img src="/assets/img/machine-bois.jpg" class="img-fluid" alt="cuisine" />
+    <img src="../assets/img/machine-bois.jpg" class="img-fluid" alt="cuisine" />
   </div>
   <div class="col-12 col-md-6 col-lg-4 mb-3">
-    <img src="/assets/img/machine-bois.jpg" class="img-fluid" alt="cuisine" />
+    <img src="../assets/img/machine-bois.jpg" class="img-fluid" alt="cuisine" />
   </div>
   <div class="col-12 col-md-6 col-lg-4 mb-3">
-    <img src="/assets/img/machine-bois.jpg" class="img-fluid" alt="cuisine" />
+    <img src="../assets/img/machine-bois.jpg" class="img-fluid" alt="cuisine" />
   </div>
   <div class="col-12 col-md-6 col-lg-4 mb-3">
-    <img src="/assets/img/machine-bois.jpg" class="img-fluid" alt="cuisine" />
+    <img src="../assets/img/machine-bois.jpg" class="img-fluid" alt="cuisine" />
   </div>
 </div>
 

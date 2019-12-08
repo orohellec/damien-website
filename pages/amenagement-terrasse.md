@@ -8,22 +8,22 @@ title: amenagement-terrasse
 
 <div class="row mx-5 mb-5">
   <div class="col-12 col-md-6 col-lg-4 mb-3">
-    <img src="{{base}}/assets/img/machine-bois.jpg" class="img-fluid" alt="terrasse"/>
+    <img src="../assets/img/machine-bois.jpg" class="img-fluid" alt="terrasse"/>
   </div>
   <div class="col-12 col-md-6 col-lg-4 mb-3">
-    <img src="{{base}}/assets/img/machine-bois.jpg" class="img-fluid" alt="terrasse"/>
+    <img src="../assets/img/machine-bois.jpg" class="img-fluid" alt="terrasse"/>
   </div>
   <div class="col-12 col-md-6 col-lg-4 mb-3">
-    <img src="{{base}}/assets/img/machine-bois.jpg" class="img-fluid" alt="terrasse"/>
+    <img src="../assets/img/machine-bois.jpg" class="img-fluid" alt="terrasse"/>
   </div>
   <div class="col-12 col-md-6 col-lg-4 mb-3">
-    <img src="{{base}}/assets/img/machine-bois.jpg" class="img-fluid" alt="terrasse"/>
+    <img src="../assets/img/machine-bois.jpg" class="img-fluid" alt="terrasse"/>
   </div>
   <div class="col-12 col-md-6 col-lg-4 mb-3">
-    <img src="{{base}}/assets/img/machine-bois.jpg" class="img-fluid" alt="terrasse"/>
+    <img src="../assets/img/machine-bois.jpg" class="img-fluid" alt="terrasse"/>
   </div>
   <div class="col-12 col-md-6 col-lg-4 mb-3">
-    <img src="{{base}}/assets/img/machine-bois.jpg" class="img-fluid" alt="terrasse"/>
+    <img src="../assets/img/machine-bois.jpg" class="img-fluid" alt="terrasse"/>
   </div>
 </div>
 
