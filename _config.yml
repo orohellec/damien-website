@@ -1,3 +1,26 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://github.com/orohellec/damien-website" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "" # the name of your site, e.g. ACME Corp.
+lang: "FR"
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+  - scope:
+      path: "assets/img/carrousel"
+    values:
+      carrousel: true
+  - scope:
+      path: "assets/img/kitchen"
+    values:
+      kitchen: true
+  - scope:
+      path: "assets/img/patio"
+    values:
+      patio: true
+  - scope:
+      path: "assets/img/wood"
+    values:
+      wood: true
