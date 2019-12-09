@@ -18,7 +18,7 @@ title: amenagement-cuisine
   {% for myimage in image_files %}
     {% for i in (1..6) %}
       <div class="col-12 col-md-6 col-lg-4 mb-3">
-        <img src="{{ myimage.path }}" class="img-fluid" alt="cuisine"/>
+        <img src="{{ site.url }}/{{ myimage.path }}" class="img-fluid" alt="cuisine"/>
       </div>
     {% endfor %}
   {% endfor %}
