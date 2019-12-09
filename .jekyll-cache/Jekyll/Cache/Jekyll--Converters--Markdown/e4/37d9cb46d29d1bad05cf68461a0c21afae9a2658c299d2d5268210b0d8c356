@@ -1,9 +1,4 @@
----
-layout: default
-title: "Damien Website"
----
-
-<div id="carouselExampleIndicators" class="carousel slide d-none d-lg-block" data-ride="carousel">
+I"§<div id="carouselExampleIndicators" class="carousel slide d-none d-lg-block" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -11,21 +6,21 @@ title: "Damien Website"
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="{{site.url}}/assets/img/carrousel/panoramic.jpg" alt="First slide">
+      <img class="d-block w-100" src="http://localhost:4000/assets/img/carrousel/panoramic.jpg" alt="First slide" />
       <div class="carousel-caption d-none d-md-block">
         <h5>TITRE</h5>
         <p>text</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{site.url}}/assets/img/carrousel/panoramic.jpg" alt="Second slide">
+      <img class="d-block w-100" src="http://localhost:4000/assets/img/carrousel/panoramic.jpg" alt="Second slide" />
       <div class="carousel-caption d-none d-md-block">
         <h5>TITRE</h5>
         <p>text</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{site.url}}/assets/img/carrousel/panoramic.jpg" alt="Third slide">
+      <img class="d-block w-100" src="http://localhost:4000/assets/img/carrousel/panoramic.jpg" alt="Third slide" />
       <div class="carousel-caption d-none d-md-block">
         <h5>TITRE</h5>
         <p>text</p>
@@ -46,8 +41,8 @@ title: "Damien Website"
   <div class="row justify-content-center my-5">
     <div class="col-12 col-md-11">
       <div class="row mb-5">
-        <div class="col-12 col-md-6 mb-5 text-center">
-          <img src="{{ site.url }}/assets/img/profil/damien.jpg" alt="Damien Benard" class="img-fluid rounded" />
+        <div class="col-12 col-md-6 text-center">
+          <img src="http://localhost:4000/assets/img/profil/damien.jpg" alt="Damien Benard" class="img-fluid rounded" />
         </div>
         <div class="col-12 col-md-6 text-center my-auto ">
           <h1>Damien Benard</h1>
@@ -59,12 +54,11 @@ title: "Damien Website"
       </div>
       <div class="row mb-5">
         <div class="col-12 text-justify">
-          <p>{{ site.data.home.description }}</p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut  consectetur dolor at efficitur vulputate. Quisque ac enim malesuada,  sollicitudin eros at, imperdiet ipsum. Suspendisse convallis placerat velit,  et dictum est fermentum et. Donec ullamcorper condimentum vehicula. Nunc porta  velit id interdum pulvinar. In dapibus dictum efficitur. Integer nibh quam,  congue vitae odio in, interdum vestibulum velit. Cras consequat luctus turpis,  ut mollis eros consectetur sit amet. Integer ut ultrices orci, at sollicitudin  nibh.</p>
         </div>
       </div>
     </div>
   </div>
 </div>
 
-
-
+:ET
