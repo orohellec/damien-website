@@ -42,24 +42,26 @@ title: "Damien Website"
   </a>
 </div>
 
-<div class="row m-5">
-  <div class="col-12 col-md-3 text-center">
-    <img src="{{ site.url }}/assets/img/anonyme.png" alt="Damien Benard" class="img-fluid" />
-  </div>
-  <div class="col-12 col-md-9 text-center my-auto">
-    <h1>Damien Benard</h1>
-    <h2>Artisan Menuisier</h2>
-    <h3>Se déplace sur Auray, Vannes...</h3>
-    <h4>Tel: 06 58 78 96 58</h4>
-    <h4>email: example@gmail.com</h4>
+<div class="container">
+  <div class="row m-5">
+    <div class="col-12 col-md-6 text-center">
+      <img src="{{ site.url }}/assets/img/profil/damien.jpg" alt="Damien Benard" class="img-fluid rounded" />
+    </div>
+    <div class="col-12 col-md-6 text-center my-auto ">
+      <h1>Damien Benard</h1>
+      <h2>Artisan Menuisier</h2>
+      <h3>Se déplace sur Auray, Vannes...</h3>
+      <h4>Tel: 06 58 78 96 58</h4>
+      <h4>email: example@gmail.com</h4>
+    </div>
   </div>
 </div>
 
-<div class="row mb-5">
-  <div class="col-12 text-center">
-    <h1 class="bg-dark text-white">Coeur de métier</h1>
-    <h2>Aménagement de cuisine</h2>
-    <h2>Aménagement de Terrasse</h2>
+<div class="container">
+  <div class="row mx-5 mb-5">
+    <div class="col-12 text-justify">
+      <p>{{ site.data.home.description }}</p>
+    </div>
   </div>
 </div>
 

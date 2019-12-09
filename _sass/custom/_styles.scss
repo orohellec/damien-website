@@ -1,3 +1,9 @@
+// General
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #dbdbd6;
+  font-size: 1.3rem;
+}
 
 .page-container {
   min-height: 100vh;
@@ -8,9 +14,59 @@
   padding-bottom: 5rem;    /* Footer height */
 }
 
+.container-fluid {
+  max-width: 1400px;
+}
+
+.categorie {
+  background-color: #707ca0;
+  color: white;
+  padding: 5px 0px;
+}
+
+// Footer
 .footer {
+  background-color: #92b233;
   position: absolute;
   bottom: 0;
   width: 100%;
   height: 5rem;            /* Footer height */
 }
+
+// Navbar
+.navbar-default {
+  background-color: #92b233;
+}
+
+.navbar-dark .navbar-brand {
+  display: inline-block;
+  color: white;
+  padding: 0.5rem 1rem;
+}
+
+.navbar-dark .navbar-brand:hover {
+  color: white;
+  background-color: #707ca0;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  display: inline-block;
+  color: white;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+  color: white;
+  font-weight: bold;
+  background-color: #707ca0;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
+// homepage
+

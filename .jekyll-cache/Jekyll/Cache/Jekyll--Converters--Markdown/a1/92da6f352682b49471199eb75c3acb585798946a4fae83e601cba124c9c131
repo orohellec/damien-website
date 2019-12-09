@@ -1,0 +1,38 @@
+I"Æ<h1 class="text-center my-5">amenagement terrasse</h1>
+
+<div class="text-center mb-5 mx-5">
+  <p></p>
+</div>
+
+<div class="row mx-5 mb-5">
+  
+  
+    
+      <div class="col-12 col-md-6 col-lg-4 mb-3">
+        <img src="http://localhost:4000//assets/img/patio/terrasse.jpeg" class="img-fluid" alt="terrasse" />
+      </div>
+    
+      <div class="col-12 col-md-6 col-lg-4 mb-3">
+        <img src="http://localhost:4000//assets/img/patio/terrasse.jpeg" class="img-fluid" alt="terrasse" />
+      </div>
+    
+      <div class="col-12 col-md-6 col-lg-4 mb-3">
+        <img src="http://localhost:4000//assets/img/patio/terrasse.jpeg" class="img-fluid" alt="terrasse" />
+      </div>
+    
+      <div class="col-12 col-md-6 col-lg-4 mb-3">
+        <img src="http://localhost:4000//assets/img/patio/terrasse.jpeg" class="img-fluid" alt="terrasse" />
+      </div>
+    
+      <div class="col-12 col-md-6 col-lg-4 mb-3">
+        <img src="http://localhost:4000//assets/img/patio/terrasse.jpeg" class="img-fluid" alt="terrasse" />
+      </div>
+    
+      <div class="col-12 col-md-6 col-lg-4 mb-3">
+        <img src="http://localhost:4000//assets/img/patio/terrasse.jpeg" class="img-fluid" alt="terrasse" />
+      </div>
+    
+  
+</div>
+
+:ET

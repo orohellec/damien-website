@@ -1,0 +1,43 @@
+I"@<h1 class="text-center my-5 font-weight-bold rounded">Amenagement Terrasse/h1&gt;
+<div class="container-fluid">
+  <div class="row justify-content-center">
+    <div class="col-12 col-md-11 col-xl-11">
+      <div class="text-justify mb-5">
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut  consectetur dolor at efficitur vulputate. Quisque ac enim malesuada,  sollicitudin eros at, imperdiet ipsum. Suspendisse convallis placerat velit,  et dictum est fermentum et. Donec ullamcorper condimentum vehicula. Nunc porta  velit id interdum pulvinar. In dapibus dictum efficitur. Integer nibh quam,  congue vitae odio in, interdum vestibulum velit. Cras consequat luctus turpis,  ut mollis eros consectetur sit amet. Integer ut ultrices orci, at sollicitudin  nibh.</p>
+      </div>
+      <div class="row mb-5">
+        
+        
+          
+            <div class="col-12 col-md-6 col-lg-4 mb-3">
+              <img src="http://localhost:4000//assets/img/patio/terrasse.jpeg" class="img-fluid" alt="cuisine" />
+            </div>
+          
+            <div class="col-12 col-md-6 col-lg-4 mb-3">
+              <img src="http://localhost:4000//assets/img/patio/terrasse.jpeg" class="img-fluid" alt="cuisine" />
+            </div>
+          
+            <div class="col-12 col-md-6 col-lg-4 mb-3">
+              <img src="http://localhost:4000//assets/img/patio/terrasse.jpeg" class="img-fluid" alt="cuisine" />
+            </div>
+          
+            <div class="col-12 col-md-6 col-lg-4 mb-3">
+              <img src="http://localhost:4000//assets/img/patio/terrasse.jpeg" class="img-fluid" alt="cuisine" />
+            </div>
+          
+            <div class="col-12 col-md-6 col-lg-4 mb-3">
+              <img src="http://localhost:4000//assets/img/patio/terrasse.jpeg" class="img-fluid" alt="cuisine" />
+            </div>
+          
+            <div class="col-12 col-md-6 col-lg-4 mb-3">
+              <img src="http://localhost:4000//assets/img/patio/terrasse.jpeg" class="img-fluid" alt="cuisine" />
+            </div>
+          
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+</h1>
+:ET
